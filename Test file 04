@@ -1,0 +1,6 @@
+#set git config values #Авторизация
+git config --global user.name "ваше имя"
+git config --global user.email "ваше_мыло@gmail.com"
+git config --global github.user ник
+git config --global github.token your_token_here#Основные команды гит:
+git clone [url] - клонирование репозитория
